@@ -1,4 +1,3 @@
-# todo-app
 # My To-Do List 🎯
 
 A modern, fast, offline-ready productivity web app designed to help you organize daily goals and stay in flow.
